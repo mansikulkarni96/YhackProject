@@ -1,0 +1,33 @@
+{
+	metadata :
+	{
+		"name" : "Shop&stop",
+		"address":"boston, MA",
+		"zipcode" : "02215",
+		"date"     :  2017-12-01
+
+	}
+	product :
+	[
+	{
+		"name"     : "Milk",
+		"category" : "commercial-diary",
+		"price"    :  3.45
+		
+	},
+	{
+		"name"     : "Cheese",
+		"category" : "commercial-diary",
+		"price"    :  4.45
+	},{
+		"name"     : "Butter",
+		"category" : "commercial-diary",
+		"price"    :  5.45
+	},{
+		"name"     : "Paneer",
+		"category" : "commercial-diary",
+		"price"    :  6.4
+		
+	}]
+
+}
