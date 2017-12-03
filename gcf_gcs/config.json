@@ -1,0 +1,7 @@
+{
+  "RESULT_TOPIC": "kanjoos_result",
+  "RESULT_BUCKET": "kanjoosbucket2",
+  "TRANSLATE_TOPIC": "kanjoos_topic_name",
+  "TRANSLATE": true,
+  "TO_LANG": ["en", "fr", "es", "ja", "ru"]
+}
