@@ -11,8 +11,9 @@ Implementation Report-
 Effect - Students can find the products they are looking for the cheapest price or the nearest store.
 
 Created by: 
-            Sougata Dafader (dafader.s@husky.neu.edu)
 
+            Sougata Dafader (dafader.s@husky.neu.edu)
+            
             Athul Karthik (muralidharan.a@husky.neu.edu)
             
             Zihan Liu (liu.zihan@husky.neu.edu)
